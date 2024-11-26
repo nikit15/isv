@@ -1,0 +1,10 @@
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\bin\Debug\eeeeeee.exe.config
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\bin\Debug\eeeeeee.exe
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\bin\Debug\eeeeeee.pdb
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.csproj.AssemblyReference.cache
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.Form1.resources
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.Properties.Resources.resources
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.csproj.GenerateResource.cache
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.csproj.CoreCompileInputs.cache
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.exe
+C:\Users\конкурс\Documents\исв\eeeeeee\eeeeeee\obj\Debug\eeeeeee.pdb
